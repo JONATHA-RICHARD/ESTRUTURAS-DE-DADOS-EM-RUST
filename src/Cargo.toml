@@ -1,6 +1,0 @@
-[package]
-name = "estruturas_de_dados"
-version = "0.1.0"
-edition = "2021"
-
-[dependencies]
